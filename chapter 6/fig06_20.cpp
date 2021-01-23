@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-
 int squareByValue(int);
 void squareByReference(int &);
 
